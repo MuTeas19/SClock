@@ -8,6 +8,8 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.util.Log;
 
+// git push -u origin master
+
 public class MainActivity extends AppCompatActivity {
 
 
